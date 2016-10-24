@@ -19,7 +19,7 @@
 		$( '#menu-primary' ).alphaMobileMenu();
 		$siteInner.fitVids();
 	}
-
+	
 	// Document ready.
 	$document.ready(function() {
 		skipLinkFocus.init();

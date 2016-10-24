@@ -1,6 +1,7 @@
 // Overall Content Max Width
 //------------------------------------------------------------------------------
 $max-width: 1140px;
+//$max-width: 100%;
 
 // Global Screen Sizes
 //------------------------------------------------------------------------------
@@ -12,9 +13,12 @@ $large-screen:    1200px;
 
 // Global Max Width Settings
 //------------------------------------------------------------------------------
+//$base-wrap-max-width:    100%;
 $base-wrap-max-width:    768px;
+//$wrap-max-width-medium:  100%;
 $wrap-max-width-medium:  960px;
 $wrap-max-width-large:   $max-width;
+
 
 // Global Spacing
 //------------------------------------------------------------------------------

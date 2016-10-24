@@ -26,7 +26,7 @@
 
 				<?php tha_entry_before(); ?>
 
-				<?php tha_entry_top(); ?>
+				<?php //tha_entry_top(); ?>
 
 				<?php tha_entry_content_before(); ?>
 
